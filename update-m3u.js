@@ -78,7 +78,7 @@ if (result.mp3) {
   console.log('📅 Konačni naziv:', emisijaInfo);
 
   // 🔥 FIKSNA SLIKA umjesto HRT‑ove
-      const tvgLogoUrl = 'https://raw.githubusercontent.com/malimujo/HRT-Drugi-dio-dana/main/drugidiodana.png';
+      const tvgLogoUrl = 'https://raw.githubusercontent.com/malimujo/HRT-Drugi-dio-dana/main/dnevniritam.png';
   
   const m3uContent = `#EXTM3U
 #EXTINF:-1 tvg-logo="${tvgLogoUrl}" group-title="Slušaonica",${emisijaInfo}
